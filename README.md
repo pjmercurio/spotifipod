@@ -1,4 +1,4 @@
-# spotifipod
+# Spotify iPod
 Software to run Spotify on a classic iPod!
 
 Forked from the amazing work at: https://github.com/dupontgu/retro-ipod-spotify-client
